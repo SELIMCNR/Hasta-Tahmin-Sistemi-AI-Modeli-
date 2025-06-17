@@ -1,0 +1,6 @@
+ID,Yaş, Cinsiyet, Ateş, Öksürük, Kan Basıncı,Nabız, Şeker Seviyesi, Hastalık
+1, 45, Erkek, 38.2, Evet, 130/85, 72, 105, Grip
+2, 60, Kadın, 37.0, Hayır, 140/90, 80, 110, Hipertansiyon
+3, 30, Erkek, 39.0, Evet, 120/80, 75, 98, Soğuk Algınlığı
+4, 50, Kadın, 36.5, Hayır, 135/88, 78, 112, Diyabet
+5, 35, Erkek, 37.8, Evet, 125/82, 70, 102, Grip
