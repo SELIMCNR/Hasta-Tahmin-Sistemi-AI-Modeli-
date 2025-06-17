@@ -18,10 +18,10 @@ Bu proje, **sağlık verilerini kullanarak hastalık tahmini yapan bir makine ö
 
 ## 📂 **Dosya Yapısı**  
 ```
-├── sağlık_ai.py  # Ana Python dosyası (GUI + AI Modeli)
+├── hastamı_yapayzeka.py # Ana Python dosyası (GUI + AI Modeli)
 ├── README.md  # Proje açıklamaları
 ├── requirements.txt  # Gerekli kütüphaneler
-├── dataset.csv  # Örnek veri seti
+├── ornek_veri.csv  # Örnek veri seti
 ```
 
 ---
